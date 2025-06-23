@@ -1,0 +1,17 @@
+{
+    "name": "jffcm/mini-erp",
+    "autoload": {
+        "psr-4": {
+            "MiniERP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "João Francisco Franco Cançado Martins",
+            "email": "joao.jffc@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
